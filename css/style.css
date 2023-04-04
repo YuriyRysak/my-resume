@@ -73,6 +73,11 @@ body {
     font-size: 14px;
     line-height: 24px;
 }
+
+.my-projects-link:hover,
+.my-projects-link:focus{
+    color: #FB6D3A;
+}
 .my-projects-text {
     color: #595959;
     font-style: normal;
